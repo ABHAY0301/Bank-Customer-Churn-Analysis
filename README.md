@@ -1,2 +1,3 @@
-# Bank-Customer-Churn-Analysis
-End-to-end Data Analyst project analyzing 10,000 bank customers using Excel, Python, SQL, and Power BI to identify churn drivers, customer segments, and retention opportunities through data cleaning, EDA, business analysis, and interactive dashboards.
+# Bank Customer Churn Analysis
+
+This project analyzes customer churn behavior in a banking environment using a dataset of 10,000 customers. The objective is to identify key factors influencing customer attrition and provide actionable business recommendations to improve customer retention. The project covers the complete data analytics workflow, including data cleaning in Excel, exploratory data analysis (EDA) in Python, business analysis using SQL, and interactive dashboard development in Power BI.
